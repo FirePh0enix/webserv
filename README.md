@@ -91,7 +91,7 @@ I was responsible for the following features:
 
 Special thanks to the following individuals and resources for their contributions to this project:
 
-- [FirePh0enix](https://github.com/FirePh0enix): An outstanding teammate who was in charge of :
+[FirePh0enix](https://github.com/FirePh0enix): An outstanding teammate who was in charge of :
 * Designing the architecture of our web server, including the design of most of the classes.
 * Parsing the configuration files, ensuring there were no errors.
 * Parsing the HTTP requests to populate our internal classes and structures, allowing me to access the necessary variables for my part.
