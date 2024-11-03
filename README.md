@@ -1,6 +1,19 @@
 # Webserv
 
-## Screenshots
+## Screenshots (it also works on Safari ???)
+
+1. Our beautifully designed file upload page. It features two forms on a clean, minimalist layout :)
+<img width="1440" alt="Screenshot 2024-11-03 at 19 06 06" src="https://github.com/user-attachments/assets/b19ab23e-61e7-4295-8bb8-33ea350af322">
+
+2. Directory listing: Firefox front-end developers should hire me! I replicated the directory listing page with the same level of detail (almost) as seen in the Firefox browser.
+<img width="1440" alt="Screenshot 2024-11-03 at 19 06 56" src="https://github.com/user-attachments/assets/f1c73de9-4ca8-4303-9b2b-da52c2e99697">
+
+3. Two of our custom error pages (featuring cats, which I think are better than the rest of the error themes).
+<img width="1440" alt="Screenshot 2024-11-03 at 19 10 55" src="https://github.com/user-attachments/assets/05cfe889-638a-41a3-b71d-caadf5f2be35">
+<img width="1440" alt="Screenshot 2024-11-03 at 19 11 03" src="https://github.com/user-attachments/assets/3c7a6de3-0430-4692-bac9-9d2232a1b3d6">
+
+4. Of course, I won't miss a chance to showcase my portfolio!
+<img width="1440" alt="Screenshot 2024-11-03 at 19 09 01" src="https://github.com/user-attachments/assets/22c8b1b9-31b8-47bc-8355-cd18934c6e60">
 
 # Table of Contents
 1. [Description](#description)
